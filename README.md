@@ -18,6 +18,9 @@
 El **Gestor de Gastos** es una aplicación web desarrollada con Laravel 12 y Backpack que te permite gestionar y visualizar tus gastos de manera eficiente. Con un dashboard interactivo, gráficos en tiempo real y herramientas para agregar y categorizar gastos, esta aplicación es ideal para mantener un control financiero detallado.
 
 ![Dashboard](/public/docs/screenshots/dashboard.png)
+![Dashboard1](/public/docs/screenshots/dashboard1.png)
+![Dashboard2](/public/docs/screenshots/dashboard2.png)
+![Dashboard3](/public/docs/screenshots/dashboard3.png)
 
 ### Características Principales
 
@@ -40,15 +43,6 @@ El **Gestor de Gastos** es una aplicación web desarrollada con Laravel 12 y Bac
 - **Backpack**: Panel de administración.
 - **Chart.js**: Gráficos interactivos.
 - **PostgreSQL**: Base de datos.
-  
-## Acceso a la Demo
-
-Puedes acceder a la demo del proyecto con las siguientes credenciales:
-
-- **Usuario**: `usuario@gmail.com`
-- **Contraseña**: `31082003`
-
-[Acceder a la Demo](#)
 
 ## Contribución
 
